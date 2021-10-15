@@ -1,0 +1,24 @@
+{
+    "atomType": "Molecule",
+    "name": "GEAR",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 896434,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9861111111111112,
+            "y": 0.5,
+            "uniqueID": 198291,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
